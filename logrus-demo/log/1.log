@@ -1,0 +1,2 @@
+time="2021-11-25T10:23:03+08:00" level=info msg="this is a info message" func=main.main file="/Volumes/D/go/src/github.com/lizw91/log-demo/logrus-demo/log/logger.go:70" appName=MyAppName component=kce-scheduler-plugins
+time="2021-11-25T10:23:03+08:00" level=error msg="this is a error message" func=main.main file="/Volumes/D/go/src/github.com/lizw91/log-demo/logrus-demo/log/logger.go:72" appName=MyAppName component=kce-scheduler-plugins
